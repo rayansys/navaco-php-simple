@@ -1,5 +1,5 @@
 <?php
-$url         	= "https://fcp.shaparak.ir/nvcservice/Api/v2/";
+$url         	= "http://79.174.161.132:8181/nvcservice/Api/v2/";
 $MerchantID 	= "";
 $username 	    = "";
 $password 	    = "";
